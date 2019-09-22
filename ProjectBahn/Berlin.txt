@@ -1,0 +1,189 @@
+U1 Warschauer Str -> Schlesisches Tor: 0,8 2
+U1 Schlesisches Tor -> Gourlitzer Bahnhof: 0,9 2
+U1 Gourlitzer Bahnhof -> Kottbusser Tor: 0,7 1
+U1 Kottbusser Tor -> Prinzenstr: 0,9 2
+U1 Prinzenstr -> Hallesches Tor: 1,0 2
+U1 Hallesches Tor -> Mouckernbruecke: 0,5 2
+U1 Mouckernbruecke -> Gleisdreieck: 0,6 1
+U1 Gleisdreieck -> Kurfuerstenstr: 1,1 2
+U1 Kurfuerstenstr -> Nollendorfplatz: 0,5 1
+U1 Nollendorfplatz -> Wittenbergplatz: 0,6 1
+U1 Wittenbergplatz -> Kurfuerstendamm: 0,8 1
+U1 Kurfuerstendamm -> Uhlandstr: 0,4 1
+U2 Pankow -> Vinetastrasse: 0,5 1
+U2 Vinetastrasse -> Schoenhauser Allee: 0,9 2
+U2 Schoenhauser Allee -> Eberswalder Strasse: 0,4 1
+U2 Eberswalder Strasse -> Senefelderplatz: 0,5 2
+U2 Senefelderplatz -> RosaLuxemburgPlatz: 0,6 3
+U2 RosaLuxemburgPlatz -> Alexanderplatz: 0,7 2
+U2 Alexanderplatz -> Klosterstrasse: 0,9 1
+U2 Klosterstrasse -> Maerkisches Museum: 0,6 2
+U2 Maerkisches Museum -> Spittelmarkt: 0,4 2
+U2 Spittelmarkt -> Hausvogteiplatz: 0,6 3
+U2 Hausvogteiplatz -> Stadtmitte: 0,5 1 
+U2 Stadtmitte -> Mohrenstrasse: 0,1 2
+U2 Mohrenstrasse -> Potsdamer Platz: 0,9 2
+U2 Potsdamer Platz -> Mendelssohn-Bartholdy-Park: 0,3 1
+U2 Mendelssohn-Bartholdy-Park -> Gleisdreieck: 1,0 2
+U2 Gleisdreieck -> Buelowstrasse: 0,3 1
+U2 Buelowstrasse -> Nollendorfplatz: 0,6 1
+U2 Nollendorfplatz -> Wittenbergplatz: 0,9 1
+U2 Wittenbergplatz -> Zoologischer Garten: 0,6 2
+U2 Zoologischer Garten -> Ernst-Reuter-Platz: 0,4 1
+U2 Ernst-Reuter-Platz -> Deutsche Oper: 0,4 1
+U2 Deutsche Oper -> Wilhelmplatz: 0,7 2
+U2 Wilhelmplatz -> Bismarckstrasse: 1,5 3
+U2 Bismarckstrasse -> Sophie-Charlotte-Platz: 0,9 2
+U2 Sophie-Charlotte-Platz -> Kaiserdamm: 0,4 1
+U2 Kaiserdamm -> Theodor-Heuss-Platz: 0,6 2
+U2 Theodor-Heuss-Platz -> Neu-Westend: 0,6 2
+U2 Neu-Westend -> Olympia-Stadion: 0,8 2
+U2 Olympia-Stadion -> Grunewald: 0,5 2
+U2 Grunewald -> Ruhleben: 0,4 1
+U3 Nollendorfplatz -> Wittenbergplatz: 0,5 1
+U3 Wittenbergplatz -> Augsburger Strasse: 0,5 1
+U3 Augsburger Strasse -> Nuernberger Platz: 0,5 1
+U3 Nuernberger Platz -> Spichernstrasse: 0,6 1
+U3 Spichernstrasse -> Hohenzollernplatz: 0,7 2
+U3 Hohenzollernplatz -> Fehrbelliner Platz: 0,7 2
+U3 Fehrbelliner Platz -> Heidelberger Platz: 0,6 1
+U3 Heidelberger Platz -> Ruedesheimer Platz: 0,9 2
+U3 Ruedesheimer Platz -> Breitenbachplatz: 0,4 1
+U3 Breitenbachplatz -> Podbielskiallee: 0,6 2
+U3 Podbielskiallee -> Dahlem-Dorf: 0,4 2
+U3 Dahlem-Dorf -> Thielplatz: 0,9 3
+U3 Thielplatz -> Oskar-Helene-Heim: 0,6 2
+U3 Oskar-Helene-Heim -> Onkel TomsHuette: 0,3 1
+U3 Onkel TomsHuette -> Zehlendorf: 0,5 1
+U3 Zehlendorf -> Krumme Lanke: 0,6 2
+U4 Nollendorfplatz -> Viktoria-Luise-Platz: 0,5 1
+U4 Viktoria-Luise-Platz -> Bayerischer Platz: 0,8 2
+U4 Bayerischer Platz -> Rathaus Schoeneberg: 0,9 3
+U4 Rathaus Schoeneberg -> Innsbrucker Platz: 0,5 1
+U4 Innsbrucker Platz -> Schoeneberg: 0,4 1
+U5 Hoenow -> Louis-Lewin-Strasse: 0,5 1
+U5 Louis-Lewin-Strasse -> Hellersdorf: 0,5 2
+U5 Hellersdorf -> Cottbusser Platz: 0,5 2
+U5 Cottbusser Platz -> Neue GrottkauerStrasse: 0,5 1
+U5 Neue GrottkauerStrasse -> Kaulsdorf-Nord: 0,5 2
+U5 Kaulsdorf-Nord -> Wuhletal: 0,5 1
+U5 Wuhletal -> Elsterwerdaer Platz: 0,5 2
+U5 Elsterwerdaer Platz -> Biesdorf-Sued: 0,5 1
+U5 Biesdorf-Sued -> Tierpark: 0,5 2
+U5 Tierpark -> Friedrichsfelde: 0,5 1
+U5 Friedrichsfelde -> Lichtenberg: 0,5 1
+U5 Lichtenberg -> Magdalenenstrasse: 0,5 1
+U5 Magdalenenstrasse -> Frankfurter Allee: 0,5 1
+U5 Frankfurter Allee -> Samariterstrasse: 0,5 2
+U5 Samariterstrasse -> Frankfurter Tor: 0,5 2
+U5 Frankfurter Tor -> Weberwiese: 0,5 1
+U5 Weberwiese -> Strausberger Platz: 0,5 2
+U5 Strausberger Platz -> Schillingstrasse: 0,5 1
+U5 Schillingstrasse -> Alexanderplatz: 0,5 2
+U6 Alt-Tegel -> Borsigwerke: 0,6 1
+U6 Borsigwerke -> Holzhauser Strasse: 0,8 2
+U6 Holzhauser Strasse -> Otisstrasse: 0,7 2
+U6 Otisstrasse -> Scharnweberstrasse: 0,6 1
+U6 Scharnweberstrasse -> Kurt-Schumacher-Platz: 0,6 1
+U6 Kurt-Schumacher-Platz -> Afrikanische Strasse: 0,6 1
+U6 Afrikanische Strasse -> Rehberge: 0,6 1
+U6 Rehberge -> Seestrasse: 0,6 1
+U6 Seestrasse -> Leopoldplatz: 0,7 2
+U6 Leopoldplatz -> Wedding: 0,6 1
+U6 Wedding -> Reinickendorfer Strasse: 0,7 2
+U6 Reinickendorfer Strasse -> Schwartzkopffstrasse: 0,6 1
+U6 Schwartzkopffstrasse -> Naturkundemuseum: 0,6 1
+U6 Naturkundemuseum -> Oranienburger Tor: 0,7 2
+U6 Oranienburger Tor -> Friedrichstrasse: 0,6 1
+U6 Friedrichstrasse -> Franzoesische Strasse: 0,6 1
+U6 Franzoesische Strasse -> Stadtmitte: 0,7 2
+U6 Stadtmitte -> Kochstrasse: 0,6 1
+U6 Kochstrasse -> Hallesches Tor: 0,7 2
+U6 Hallesches Tor -> Mehringdamm: 0,6 1
+U6 Mehringdamm -> Platz derLuftbruecke: 0,6 1
+U6 Platz derLuftbruecke -> Paradestrasse: 0,7 2
+U6 Paradestrasse -> Tempelhof: 0,6 1
+U6 Tempelhof -> Alt-Tempelhof: 0,7 2
+U6 Alt-Tempelhof -> Kaiserin-Augusta-Strasse: 0,6 1
+U6 Kaiserin-Augusta-Strasse -> Ullsteinstrasse: 0,6 1
+U6 Ullsteinstrasse -> Westphalweg: 0,6 1
+U6 Westphalweg -> Alt-Mariendorf: 0,7 2
+U7 Rathaus Spandau -> Altstadt Spandau: 0,5 1
+U7 Altstadt Spandau -> Zitadelle: 0,6 1
+U7 Zitadelle -> Haselhorst: 0,6 1
+U7 Haselhorst -> Paulsternstrasse: 0,6 1
+U7 Paulsternstrasse -> Rohrdamm: 0,7 2
+U7 Rohrdamm -> Siemensdamm: 0,7 2
+U7 Siemensdamm -> Halemweg: 0,6 1
+U7 Halemweg -> Jakob-Kaiser-Platz: 0,6 1
+U7 Jakob-Kaiser-Platz -> Jungfernheide: 0,7 2
+U7 Jungfernheide -> Mierendorffplatz: 0,6 1
+U7 Mierendorffplatz -> Richard-Wagner-Platz: 0,6 1	
+U7 Richard-Wagner-Platz -> Bismarckstrasse: 0,6 1
+U7 Bismarckstrasse -> Wilmersdorfer Strasse: 0,7 2
+U7 Wilmersdorfer Strasse -> Adenauerplatz: 0,6 1
+U7 Adenauerplatz -> Konstanzer Strasse: 0,6 1
+U7 Konstanzer Strasse -> Fehrbelliner Platz: 0,7 2
+U7 Fehrbelliner Platz -> Blissestrasse: 0,6 1
+U7 Blissestrasse -> Berliner Strasse: 0,6 1	
+U7 Berliner Strasse -> Bayerischer Platz: 0,7 2
+U7 Bayerischer Platz -> Eisenacher Strasse: 0,6 1
+U7 Eisenacher Strasse -> Kleistpark: 0,7 2	
+U7 Kleistpark -> Yorckstrasse: 0,6 1
+U7 Yorckstrasse -> Moeckernbruecke: 0,7 2
+U7 Moeckernbruecke -> Mehringdamm: 0,6 1
+U7 Mehringdamm -> Gneisenaustrasse: 0,7 2
+U7 Gneisenaustrasse -> Suedstern: 0,6 1
+U7 Suedstern -> Hermannplatz: 0,6 1
+U7 Hermannplatz -> Rathaus Neukoelln: 0,7 2
+U7 Rathaus Neukoelln -> Karl-Marx-Strasse: 0,6 1
+U7 Karl-Marx-Strasse -> Neukoelln: 0,7 2
+U7 Neukoelln -> Grenzallee: 0,6 1
+U7 Grenzallee -> Blaschkoallee: 0,6 1
+U7 Blaschkoallee -> Parchimer Allee: 0,7 2
+U7 Parchimer Allee -> Britz-Sued: 0,6 1
+U7 Britz-Sued -> Johannisthaler Chaussee: 0,7 2
+U7 Johannisthaler Chaussee -> Lipschitzallee: 0,6 1
+U7 Lipschitzallee -> Wutzkyallee: 0,7 2
+U7 Wutzkyallee -> Zwickauer Damm: 0,6 1
+U7 Zwickauer Damm -> Rudow: 0,7 2
+U8 Wittenau -> Rathaus Reinickendorf: 0,7 2
+U8 Rathaus Reinickendorf -> Karl-Bonhoeffer-Nervenklinik: 0,7 2
+U8 Karl-Bonhoeffer-Nervenklinik -> Lindauer Allee: 0,7 2
+U8 Lindauer Allee -> Paracelsus Bad: 0,6 1
+U8 Paracelsus Bad -> Residenzstrasse: 0,6 1
+U8 Residenzstrasse -> Franz-Neumann-Platz: 0,6 1
+U8 Franz-Neumann-Platz -> Osloer Strasse: 0,6 1
+U8 Osloer Strasse -> Pankstrasse: 0,6 1
+U8 Pankstrasse -> Gesundbrunnen: 0,6 1
+U8 Gesundbrunnen -> Voltastrasse: 0,5 1
+U8 Voltastrasse -> Bernauer Strasse: 0,5 1
+U8 Bernauer Strasse -> Rosenthaler Platz: 0,5 1
+U8 Rosenthaler Platz -> Weinmeisterstrasse: 0,5 1
+U8 Weinmeisterstrasse -> Alexanderplatz: 0,5 1
+U8 Alexanderplatz -> Jannowitzbruecke: 0,5 1
+U8 Jannowitzbruecke -> Heinrich-Heine-Strasse: 0,7 2
+U8 Heinrich-Heine-Strasse -> Moritzplatz: 0,7 2
+U8 Moritzplatz -> Kottbusser Tor: 0,7 2
+U8 Kottbusser Tor -> Schoenleinstrasse: 0,5 1
+U8 Schoenleinstrasse -> Hermannplatz: 0,5 1
+U8 Hermannplatz -> Boddinstrasse: 0,5 1
+U8 Boddinstrasse -> Leinestrasse: 0,5 1
+U8 Leinestrasse -> Hermannstrasse: 0,5 1
+U9 Osloer Strasse -> Nauener Platz: 0,5 1
+U9 Nauener Platz -> Leopoldplatz: 0,5 1
+U9 Leopoldplatz -> Amrumer Strasse: 0,9 2
+U9 Amrumer Strasse -> Westhafen: 0,9 2
+U9 Westhafen -> Birkenstrasse: 0,9 2
+U9 Birkenstrasse -> Turmstrasse: 0,5 1
+U9 Turmstrasse -> Hansaplatz: 0,5 1
+U9 Hansaplatz -> Zoologischer Garten: 0,5 1
+U9 Zoologischer Garten -> Kurfuerstendamm: 0,5 1
+U9 Kurfuerstendamm -> Spichernstrasse: 0,5 1
+U9 Spichernstrasse -> Guentzelstrasse: 0,5 1
+U9 Guentzelstrasse -> Berliner Strasse: 0,5 1
+U9 Berliner Strasse -> Bundesplatz: 0,5 1
+U9 Bundesplatz -> Friedrich-Wilhelm-Platz: 0,5 1
+U9 Friedrich-Wilhelm-Platz -> Walther-Schreiber-Platz: 0,5 1
+U9 Walther-Schreiber-Platz -> Schlossstrasse: 0,5 1
+U9 Schlossstrasse -> Rathaus Steglitz: 0,5 1
